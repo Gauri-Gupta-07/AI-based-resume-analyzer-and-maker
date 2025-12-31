@@ -6,11 +6,16 @@ An AI-based Resume Analyzer and Maker is a smart system designed to help both jo
 # Features
 
 • Resume Builder: Generates a professional resume using templates and user input.
+
 • ATS Compatibility Check: Ensures the resume passes through Applicant Tracking Systems.
+
 • Resume Scoring: Assigns a score based on keywords, formatting, grammar, and job match.
+
 • Job Match Analyzer: Compares resume content to a job description and provides a match score.
 
 # Technologies Used
-• Backend: Java Servlet
+• Backend: Java Servlet 
+
 • Frontend: HTML, CSS, JavaScript
+
 • Database: MySql
